@@ -55,9 +55,9 @@
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/ahmed-aldsoaky-928761282)  
-- [GitHub](https://github.com/ahmedaldsoaky)  
-- [Codeforces](https://codeforces.com/profile/ahmedaldsoaky)  
-- [LeetCode](https://leetcode.com/u/ahmedaldsoaky/)  
+- [GitHub](https://github.com/ahmedaldsoaky)
+- [Codeforces](https://codeforces.com/profile/Ahmed-Fawzy)  
+- [LeetCode](https://leetcode.com/u/_Ahmed_Fawzy/)  
 
 ---
 
