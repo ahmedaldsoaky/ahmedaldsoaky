@@ -78,7 +78,7 @@ A spreadsheet-like system built from scratch:
 | Role | Organization | Period |
 |---|---|---|
 | Core Team Member (Java Track) | GDG On Campus – Al-Azhar | Nov 2024 – May 2025 |
-| Problem Solving Mentor | ABCL Academy | Jan 2024 – Jun 2024 |
+| Problem Solving Mentor | ABCL Academy | Oct 2023 – Jun 2024 |
 
 - Delivered **Java workshops** to 100+ students
 - Mentored students in algorithms and competitive programming
