@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Aldsoaky;.NET+Backend+Developer;Competitive+Programmer+%7C+C%2B%2B;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Aldsoaky;.NET+Backend+Engineer;Competitive+Programmer+%7C+C%2B%2B;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 <br/>
 
@@ -94,7 +94,7 @@ A spreadsheet engine built from scratch, no libraries:
 | 🔵 Codeforces | [Ahmed-Fawzy](https://codeforces.com/profile/Ahmed-Fawzy) | Algorithms, Data Structures |
 | 🟡 LeetCode | [ahmedaldsoaky](https://leetcode.com/u/ahmedaldsoaky/) | DSA, Interview Prep |
 
-**Strong in:** Dynamic Programming · Graph Theory · Greedy · Binary Search · Segment Trees
+**Strong in:** Binary Tree · Graph Theory · Greedy · Binary Search · Trees(BFS & DFS)
 
 ---
 
@@ -138,8 +138,6 @@ A spreadsheet engine built from scratch, no libraries:
 - [ ] Land a **.NET Backend Internship**
 - [ ] Build and deploy a **full RESTful API** project (open source)
 - [ ] Learn **Clean Architecture** and apply it to a real project
-- [ ] Reach **Candidate Master** on Codeforces
-- [ ] Contribute to an **open source .NET project**
 
 ---
 
