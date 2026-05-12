@@ -133,7 +133,7 @@ A spreadsheet engine built from scratch, no libraries:
 
 ---
 
-## 🎯 Current Goals (2025)
+## 🎯 Current Goals (2026)
 
 - [ ] Land a **.NET Backend Internship**
 - [ ] Build and deploy a **full RESTful API** project (open source)
