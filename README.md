@@ -202,14 +202,6 @@ A spreadsheet engine built from scratch without external libraries.
 * [ ] Contribute to Open Source Projects
 * [ ] Improve System Design knowledge
 
----
-
-## 💬 Quote
-
-> "First, solve the problem. Then, write the code."
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedaldsoaky&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
