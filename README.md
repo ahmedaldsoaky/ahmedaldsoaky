@@ -1,150 +1,215 @@
-<div align="center">
+# Hi 👋 I'm Ahmed Aldsoaky
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Aldsoaky;.NET+Backend+Engineer;Competitive+Programmer+%7C+C%2B%2B;Always+learning%2C+always+building)](https://git.io/typing-svg)
+### .NET Backend Developer | Competitive Programmer
 
-<br/>
+🎓 **Computer Engineering Student** @ Al-Azhar University (2022–2027)
+📍 Cairo, Egypt
 
-🎓 **Computer Engineering** @ Al-Azhar University (2022–2027) &nbsp;|&nbsp; 📍 Cairo, Egypt
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aldsoaky-928761282)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedaldsoaky)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ahmed-Fawzy)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ahmedaldsoaky/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaldsoaky@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-aldsoaky-928761282)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ahmedaldsoaky)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/Ahmed-Fawzy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/ahmedaldsoaky/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ahmedaldsoaky@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-I'm a backend developer passionate about building **clean, scalable, and well-architected** web applications. My competitive programming background (1000+ problems solved) gives me a strong algorithmic mindset that I bring into every engineering decision.
+I'm a Computer Engineering student and .NET Backend Developer passionate about building scalable web applications and RESTful APIs using ASP.NET Core.
 
-- 🔭 Currently building: **Online Courses Platform (LMS)** with ASP.NET Core
-- 🎓 Completed: **120-hr .NET Web Development training** @ ITI (Information Technology Institute)
-- 🌱 Currently deepening: **Clean Architecture**, **Design Patterns**, **RESTful API design**
-- 🎯 Actively seeking: **.NET Backend Internship** or **Junior Backend Developer** role
-- 💬 Ask me about: ASP.NET Core, EF Core, Data Structures & Algorithms, Competitive Programming
+I have solved **1000+ competitive programming problems**, which strengthened my problem-solving and algorithmic thinking skills. Currently, I focus on backend development, software architecture, and building production-ready applications using ASP.NET Core, Entity Framework Core, SQL Server, and ASP.NET Identity.
 
----
+I am actively seeking a **.NET Backend Internship** where I can contribute, learn from experienced engineers, and grow as a backend developer.
 
-## 🚀 Projects
-
-### 🎓 Online Courses Platform (LMS)
-> `ASP.NET Core MVC` &nbsp;`Entity Framework Core` &nbsp;`SQL Server` &nbsp;`ASP.NET Identity`
-
-A production-style Learning Management System built with clean backend architecture:
-
-- ✅ **Role-Based Access Control** — Admin, Instructor, Student via ASP.NET Identity
-- ✅ **Course management** — enrollment workflow, pagination, progress tracking
-- ✅ **Layered architecture** — Service Layer + Repository Pattern + DTOs
-- ✅ **Scalable design** — separation of concerns for long-term maintainability
+* 🔭 Currently Building: **Online Courses Platform (LMS)**
+* 🌱 Currently Learning: **Clean Architecture, Design Patterns, System Design**
+* 💡 Interested In: Backend Engineering, Software Architecture, APIs
+* 🎯 Goal: Become a skilled Backend Engineer and build scalable systems
 
 ---
 
-### 📊 Excel Sheet Simulator
-> `Java` &nbsp;`OOP` &nbsp;`2D Arrays`
+# 🚀 Featured Projects
 
-A spreadsheet engine built from scratch, no libraries:
+## 🎓 Online Courses Platform (LMS)
 
-- ✅ Dynamic cell storage and arithmetic operations
-- ✅ Clean OOP design with modularity and maintainability in mind
+### Tech Stack
 
----
+`ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `ASP.NET Identity`
 
-## 💻 Tech Stack
+🔗 **Repository:**
+https://github.com/ahmedaldsoaky/OnlinCoursesPlatform
 
-<div align="center">
+A production-style Learning Management System designed with scalability and maintainability in mind.
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Key Features
 
-### Backend & Framework
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+* Built a Learning Management System supporting **Students, Instructors, and Admins**
+* Implemented **ASP.NET Identity** with Role-Based Authorization
+* Developed course enrollment and progress-tracking workflows
+* Designed a layered architecture using **Service Layer, Repository Pattern, DTOs, and AutoMapper**
+* Integrated Entity Framework Core with SQL Server for data persistence
+* Implemented pagination, filtering, and search features
+* Applied clean separation of concerns for maintainable code
 
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Architecture Highlights
 
-### Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+* Repository Pattern
+* Service Layer
+* DTO Pattern
+* AutoMapper
+* Dependency Injection
+* Authentication & Authorization
+* Entity Framework Core
+* SQL Server
 
 ---
 
-## 🏆 Competitive Programming
+## 📊 Excel Sheet Simulator
 
-> **1000+ problems** solved across multiple platforms
+### Tech Stack
 
-| Platform | Profile | Focus |
-|---|---|---|
-| 🔵 Codeforces | [Ahmed-Fawzy](https://codeforces.com/profile/Ahmed-Fawzy) | Algorithms, Data Structures |
-| 🟡 LeetCode | [ahmedaldsoaky](https://leetcode.com/u/ahmedaldsoaky/) | DSA, Interview Prep |
+`Java` `OOP` `2D Arrays`
 
-**Strong in:** Binary Tree · Graph Theory · Greedy · Binary Search · Trees(BFS & DFS)
+A spreadsheet engine built from scratch without external libraries.
 
----
+### Features
 
-## 🎓 Education & Training
-
-| | Institution | Period |
-|---|---|---|
-| 🏛️ **B.Eng. Computer Engineering** | Al-Azhar University, Cairo | Sep 2022 – May 2027 |
-| 🖥️ **Web Development using .NET** (120 hrs) | Information Technology Institute (ITI) | Jul 2025 – Aug 2025 |
+* Dynamic cell storage
+* Formula evaluation
+* Arithmetic operations
+* Object-Oriented Design
+* Modular architecture
 
 ---
 
-## 🌍 Community & Mentorship
+# 💻 Tech Stack
 
-| Role | Organization | Period | Impact |
-|---|---|---|---|
-| Core Team Member (Java Track) | GDG On Campus – Al-Azhar | Nov 2024 – May 2025 | Delivered Java workshops to **100+ students** |
-| Problem Solving Mentor | ABCL Academy | Jan 2024 – Jun 2024 | Mentored students in algorithms & competitive programming |
+## Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+## Backend Development
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+### Backend Concepts
+
+* RESTful API Design
+* ASP.NET Identity
+* JWT Authentication
+* Authentication & Authorization
+* Repository Pattern
+* Unit Of Work
+* Service Layer
+* DTO Pattern
+* AutoMapper
+* Dependency Injection
+* Validation
+* Exception Handling
+* LINQ
+* Entity Framework Core
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+## Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+# 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedaldsoaky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+* Solved **1000+ problems** across Codeforces, LeetCode, and other competitive programming platforms
+* Problem Solving Mentor at ABCL Academy
+* Core Team Member at GDG On Campus Al-Azhar
+* Completed **120-hour ITI .NET Web Development Training**
+* Strong foundation in Algorithms and Data Structures
+
+---
+
+# 🏆 Competitive Programming
+
+| Platform   | Profile       |
+| ---------- | ------------- |
+| Codeforces | Ahmed-Fawzy   |
+| LeetCode   | ahmedaldsoaky |
+
+### Strong In
+
+* Binary Search
+* Graph Theory
+* Trees (BFS & DFS)
+* Binary Trees
+* Greedy Algorithms
+* Dynamic Programming
+* Data Structures
+
+---
+
+# 🎓 Education & Training
+
+| Degree                               | Institution         | Period              |
+| ------------------------------------ | ------------------- | ------------------- |
+| B.Eng. Computer Engineering          | Al-Azhar University | Sep 2022 – May 2027 |
+| Web Development Using .NET (120 hrs) | ITI                 | Jul 2025 – Aug 2025 |
+
+---
+
+# 🌍 Leadership & Community
+
+| Role                          | Organization           | Period              |
+| ----------------------------- | ---------------------- | ------------------- |
+| Core Team Member (Java Track) | GDG On Campus Al-Azhar | Nov 2024 – May 2025 |
+| Problem Solving Mentor        | ABCL Academy           | Jan 2024 – Jun 2024 |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedaldsoaky&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaldsoaky&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedaldsoaky&theme=tokyonight&hide_border=true" height="170"/>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaldsoaky&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🎯 Current Goals (2026)
-
-- [ ] Land a **.NET Backend Internship**
-- [ ] Build and deploy a **full RESTful API** project (open source)
-- [ ] Learn **Clean Architecture** and apply it to a real project
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaldsoaky&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+# 🎯 Current Goals
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedaldsoaky&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
+* [ ] Secure a .NET Backend Internship
+* [ ] Build and deploy production-ready ASP.NET Core APIs
+* [ ] Master Clean Architecture
+* [ ] Learn advanced Design Patterns
+* [ ] Contribute to Open Source Projects
+* [ ] Improve System Design knowledge
 
-**"First, solve the problem. Then, write the code." — John Johnson**
+---
 
-</div>
+## 💬 Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedaldsoaky&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
