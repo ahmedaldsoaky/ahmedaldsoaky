@@ -1,247 +1,169 @@
 <h1 align="center">Hi 👋, I'm Ahmed Aldsoaky</h1>
 
 <h3 align="center">
-Backend Developer • ASP.NET Core • C# • SQL Server
+.NET Backend Developer • ASP.NET Core • C# • SQL Server
 </h3>
 
 <p align="center">
-Computer Engineering Student at Al-Azhar University passionate about building scalable backend systems and production-ready web applications.
+Computer and Systems Engineering Student at Al-Azhar University focused on
+building backend applications with ASP.NET Core and Entity Framework Core.
 </p>
 
 <p align="center">
-<a href="https://github.com/ahmedaldsoaky">
-<img src="https://komarev.com/ghpvc/?username=ahmedaldsoaky&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-<a href="https://github.com/ahmedaldsoaky?tab=followers">
-<img src="https://img.shields.io/github/followers/ahmedaldsoaky?label=Followers&style=flat" />
-</a>
-<a href="https://github.com/ahmedaldsoaky">
-<img src="https://img.shields.io/github/stars/ahmedaldsoaky?affiliations=OWNER&style=flat" />
-</a>
+  <a href="https://github.com/ahmedaldsoaky">
+    <img src="https://komarev.com/ghpvc/?username=ahmedaldsoaky&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/ahmedaldsoaky?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahmedaldsoaky?label=Followers&style=flat" />
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ahmed-aldsoaky-928761282">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ahmedaldsoaky@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/ahmedaldsoaky/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/Ahmed-Fawzy">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/ahmed-aldsoaky-928761282">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedaldsoaky@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/ahmedaldsoaky/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/Ahmed-Fawzy">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-- 🎓 Computer Engineering Student @ Al-Azhar University
-- 💻 Backend Developer specializing in ASP.NET Core
-- 🧠 Solved **1000+ Competitive Programming Problems**
-- 🚀 Passionate about Clean Architecture & REST APIs
-- 📚 Currently learning System Design & Design Patterns
-- 🎯 Looking for Backend Engineering opportunities
+- 🎓 Computer and Systems Engineering Student at Al-Azhar University
+- 💻 .NET Backend Developer focused on ASP.NET Core
+- 🧠 Solved **1000+ problems** on Codeforces and LeetCode
+- 🏆 **ECPC 2026 Qualifier**
+- 🔐 Interested in backend architecture, authentication, and RESTful APIs
+- 🎯 Currently seeking **.NET Backend Internship** opportunities
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🛒 ShopHub
+### 🛒 ShopHub
 
-> Modern E-Commerce Platform built with ASP.NET Core.
+ASP.NET Core MVC E-Commerce application built with Entity Framework Core and SQL Server.
 
 **Tech Stack**
 
-`ASP.NET Core MVC`
-`Entity Framework Core`
-`SQL Server`
-`Identity`
+`ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `ASP.NET Identity`
 
-### Features
+**Highlights**
 
-- Authentication & Authorization
-- Product Management
-- Categories
-- Image Upload
-- Pagination
-- Search
-- Filtering
+- Product and Category management
+- CRUD operations
+- Product image upload
 - Repository Pattern
-- Unit Of Work
-- DTO Pattern
-- AutoMapper
+- Dependency Injection
+- ViewModels
+- Admin dashboard
+- DataTables
+- Identity Authentication
+- Session configuration
 
-🔗 Repository
-
-https://github.com/ahmedaldsoaky/ShopHub
+🔗 [Repository](https://github.com/ahmedaldsoaky/ShopHub)
 
 ---
 
-## 🎓 Online Courses Platform
+### 🎓 Online Courses Platform
 
-Production-style Learning Management System.
+A Learning Management System built with ASP.NET Core MVC.
 
-### Features
+**Tech Stack**
 
-- Student / Instructor / Admin
-- Course Enrollment
-- Progress Tracking
-- Identity Authentication
-- Role Authorization
-- Pagination
-- Search
-- Filtering
+`ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `ASP.NET Identity` `AutoMapper`
+
+**Highlights**
+
+- Student, Instructor, and Admin roles
+- Course management and approval workflow
+- Course enrollment
+- Learning progress tracking
+- Quiz system
+- Reviews and ratings
+- Search, filtering, and pagination
 - Repository Pattern
 - Service Layer
-- DTO
-- AutoMapper
+- DTOs and AutoMapper
+- Layered Architecture
 
-🔗 Repository
-
-https://github.com/ahmedaldsoaky/OnlinCoursesPlatform
+🔗 [Repository](https://github.com/ahmedaldsoaky/OnlineCoursesPlatform)
 
 ---
 
-## 📊 Excel Sheet Simulator
-
-Java implementation of a spreadsheet engine.
-
-- Formula Evaluation
-- Arithmetic Operations
-- OOP Design
-- Dynamic Cells
-
----
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,c,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java" />
 </p>
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" />
 </p>
+
+### Authentication & Architecture
+
+`ASP.NET Identity` `JWT Authentication` `Role-Based Authorization`
+
+`Layered / N-Tier Architecture` `Repository Pattern` `Service Layer`
+
+`Dependency Injection` `SOLID Principles` `LINQ`
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux" />
 </p>
 
 ---
 
-# 📚 Backend Skills
+## 🏆 Achievements
 
-- RESTful APIs
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- ASP.NET Identity
-- JWT Authentication
-- Clean Architecture
-- Repository Pattern
-- Unit Of Work
-- Service Layer
-- DTO Pattern
-- AutoMapper
-- LINQ
-- Dependency Injection
-- SOLID Principles
+- 🏆 **ECPC 2026 Qualifier**
+- 🧠 **1000+** problems solved on Codeforces and LeetCode
+- 👨‍🏫 Problem Solving Mentor @ ABCL Academy
+- 🌍 Core Team Member @ GDG On Campus Al-Azhar
+- 🎓 ITI .NET Web Development Training — **120 Hours**
 
 ---
 
-# 🏆 Achievements
+## 👨‍🏫 Leadership & Community
 
-🏅 Solved **1000+** Problems
+### GDG On Campus Al-Azhar
+**Core Team Member** — Nov. 2024 – May 2025
 
-👨‍🏫 Problem Solving Mentor @ ABCL Academy
+Delivered Java programming workshops for **100+ students**.
 
-🌍 Core Team Member @ GDG On Campus
+### ABCL Academy
+**Problem Solving Mentor** — Jan. 2024 – Jun. 2024
 
-🎓 ITI .NET Web Development Training (120 Hours)
-
----
-
-# 🌱 Currently Learning
-
-- Clean Architecture
-
-- Design Patterns
-
-- System Design
-
-- Docker
-
-- Cloud Fundamentals
+Mentored students in Data Structures, Algorithms, and Competitive Programming.
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedaldsoaky&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaldsoaky&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedaldsoaky&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedaldsoaky&theme=tokyo-night"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedaldsoaky&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaldsoaky&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Build scalable backend systems
-
-- ✅ Master ASP.NET Core
-
-- 🔄 Learn Cloud Technologies
-
-- 🔄 Master System Design
-
-- 🔄 Contribute to Open Source
-
-- 🎯 Become a Backend Engineer
-
----
-
-<h3 align="center">
-
-Thanks for visiting my profile ❤️
-
-</h3>
+<p align="center">
+  Thanks for visiting my profile ❤️
+</p>
